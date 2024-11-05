@@ -1,2 +1,2 @@
 # CSP203_1550
-This for course csp203.
+This is for course csp203.
